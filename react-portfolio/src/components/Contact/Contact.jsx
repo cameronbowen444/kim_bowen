@@ -32,8 +32,7 @@ const Contact = () => {
                         <form 
                             onSubmit={onSubmit}
                             target='_blank'
-                            // send test message and change email to key when Kim is availble is here https://www.youtube.com/watch?v=JSJ8ftr92Vw&t=1072s
-                            // action='https://formsubmit.co/colorkim61@gmail.com'
+                            action='https://formsubmit.co/e81e2994c2dfb2d2355ba0cd9a503d12'
                             method="POST"
                         >
                             <Row>
